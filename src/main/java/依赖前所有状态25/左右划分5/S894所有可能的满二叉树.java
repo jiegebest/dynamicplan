@@ -1,6 +1,6 @@
 package 依赖前所有状态25.左右划分5;
 
-import 未分类41.basic.TreeNode;
+import 未分类31.basic.TreeNode;
 
 import java.util.ArrayList;
 import java.util.HashMap;

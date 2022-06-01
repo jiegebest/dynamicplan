@@ -5,49 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/排列组合/S473火柴拼正方形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/游戏/S294翻转游戏II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/游戏/S464我能赢吗.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ptrsmemo/S1477找两个和为目标值且不重叠的子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S926将字符串翻转到单调递增.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S978最长湍流子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/最大子数组和/S918环形子数组的最大和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/等差数列/S2110股票平滑下跌阶段的数目.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S1227飞机座位分配概率.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1594矩阵的最大非负积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前特定状态5/反方向定义状态/S2140解决智力问题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S140单词拆分II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/S140单词拆分II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S22括号生成.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/括号/S22括号生成.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S241为运算表达式设计优先级.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/括号/S241为运算表达式设计优先级.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S294翻转游戏II.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S464我能赢吗.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S473火柴拼正方形.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfscache6/S526优美的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/排列组合/S526优美的排列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/拆分/S139单词拆分.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/S139单词拆分.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S1262可被三整除的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S1262可被三整除的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S152乘积最大子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S152乘积最大子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S276栅栏涂色.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S276栅栏涂色.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S376摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S376摆动序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S790多米诺和托米诺平铺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S790多米诺和托米诺平铺.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/S845数组中的最长山脉.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S845数组中的最长山脉.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/丑数4/S264丑数II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/丑数4/S264丑数II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/丑数4/S313超级丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/丑数4/S313超级丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/丑数4/剑指Offer49丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/丑数4/剑指Offer49丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/丑数4/面试题1709第k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/丑数4/面试题1709第k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/子数组/S1186删除一次得到子数组最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1186删除一次得到子数组最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/子数组/S1493删掉一个元素以后全为1的最长子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1493删掉一个元素以后全为1的最长子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/子数组/S1524和为奇数的子数组数目.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1524和为奇数的子数组数目.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/子数组/S1567乘积为正数的最长子数组长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1567乘积为正数的最长子数组长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/股票买卖5/S122买卖股票的最佳时机II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/股票买卖5/S122买卖股票的最佳时机II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/股票买卖5/S123买卖股票的最佳时机III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/股票买卖5/S123买卖股票的最佳时机III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/股票买卖5/S188买卖股票的最佳时机IV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/股票买卖5/S188买卖股票的最佳时机IV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/股票买卖5/S309最佳买卖股票时机含冷冻期.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/股票买卖5/S309最佳买卖股票时机含冷冻期.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/股票买卖5/S714买卖股票的最佳时机含手续费.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/股票买卖5/S714买卖股票的最佳时机含手续费.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/连续1/S487最大连续1的个数II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/连续1/S487最大连续1的个数II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机18/连续1/面试题0503翻转数位.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/连续1/面试题0503翻转数位.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S1411给N3网格图涂色的方案数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S1477找两个和为目标值且不重叠的子数组.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S813最大平均值和的分组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/S813最大平均值和的分组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S926将字符串翻转到单调递增.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S978最长湍流子数组.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/S413等差数列划分.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/等差数列/S413等差数列划分.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S1043分隔数组以得到最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/S1043分隔数组以得到最大和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S1227飞机座位分配概率.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S1594矩阵的最大非负积.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S2110股票平滑下跌阶段的数目.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S2140解决智力问题.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类41/S918环形子数组的最大和.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -102,6 +74,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="S1594矩阵的最大非负积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="依赖前一个状态99.状态机20.子数组.S1594矩阵的最大非负积" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="依赖前一个状态99.状态机20.子数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S1594矩阵的最大非负积" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
