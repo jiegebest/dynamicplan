@@ -1,4 +1,4 @@
-package 依赖前一个状态99.状态机20;
+package 依赖前一个状态99.状态机20.子序列;
 
 import java.util.Arrays;
 
