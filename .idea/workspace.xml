@@ -5,22 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/二维矩阵31/距离3/S764最大加号标志.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/S1621大小为K的不重叠线段的数目.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子序列/S1911最大子序列交替和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/子序列3/S1395统计作战单位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/排列组合/S698划分为k个相等的子集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/股票买卖最大利润/S1578使绳子变成彩色的最短时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/S1334阈值距离内邻居最少的城市.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/S898子数组按位或操作.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖后一个状态/S1055形成字符串的最短路径.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/匹配/交织3/S1035不相交的线.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/交织3/S1035不相交的线.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/匹配/交织3/S97交错字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/交织3/S97交错字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/匹配/交织3/S剑指OfferII096字符串交织.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/前缀13/划分/交织3/S剑指OfferII096字符串交织.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S152乘积最大子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S152乘积最大子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/S376摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子序列/S376摆动序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1395统计作战单位数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1621大小为K的不重叠线段的数目.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1911最大子序列交替和.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2266统计打字方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类31/S2266统计打字方案数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S361轰炸敌人.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/二维矩阵31/S361轰炸敌人.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S764最大加号标志.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前特定状态5/反方向定义状态/S2140解决智力问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖后一个状态/S2140解决智力问题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1024视频拼接.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1024视频拼接.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1055形成字符串的最短路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1334阈值距离内邻居最少的城市.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1578使绳子变成彩色的最短时间.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1626无矛盾的最佳球队.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1626无矛盾的最佳球队.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1653使字符串平衡的最少删除次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1653使字符串平衡的最少删除次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1749任意子数组和的绝对值的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1749任意子数组和的绝对值的最大值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1770执行乘法运算的最大分数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1770执行乘法运算的最大分数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1986完成任务的最少工作时间段.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1986完成任务的最少工作时间段.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1997访问完所有房间的第一天.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1997访问完所有房间的第一天.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2008出租车的最大盈利.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2008出租车的最大盈利.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2100适合打劫银行的日子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2100适合打劫银行的日子.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2184NumberofWaystoBuildSturdyBrickWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2184NumberofWaystoBuildSturdyBrickWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S333最大BST子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S333最大BST子树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S351安卓系统手势解锁.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S351安卓系统手势解锁.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S418屏幕可显示句子的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S418屏幕可显示句子的数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S638大礼包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S638大礼包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S650只有两个键的键盘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S650只有两个键的键盘.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S698划分为k个相等的子集.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S838推多米诺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S838推多米诺.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S898子数组按位或操作.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S95不同的二叉搜索树II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S95不同的二叉搜索树II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/SLCP45自行车炫技赛场.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/SLCP45自行车炫技赛场.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S面试题0814布尔运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S面试题0814布尔运算.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S面试题1708马戏团人塔.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S面试题1708马戏团人塔.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/basic/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/basic/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/已刷/S983最低票价.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/已刷/S983最低票价.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
