@@ -5,42 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/排列组合/S698划分为k个相等的子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/一维数组6/股票买卖最大利润/S1578使绳子变成彩色的最短时间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/S1334阈值距离内邻居最少的城市.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/S898子数组按位或操作.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖后一个状态/S1055形成字符串的最短路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfsmemo6/排列组合/S1986完成任务的最少工作时间段.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1749任意子数组和的绝对值的最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/左右/S1653使字符串平衡的最少删除次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/子序列3/S1626无矛盾的最佳球队.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/子数组/S1493删掉一个元素以后全为1的最长子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前一个状态99/状态机20/左右/S1493删掉一个元素以后全为1的最长子数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/依赖前特定状态5/反方向定义状态/S2140解决智力问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/依赖后一个状态/S2140解决智力问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1024视频拼接.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1024视频拼接.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1055形成字符串的最短路径.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1334阈值距离内邻居最少的城市.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1578使绳子变成彩色的最短时间.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1626无矛盾的最佳球队.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1626无矛盾的最佳球队.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1653使字符串平衡的最少删除次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1653使字符串平衡的最少删除次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1749任意子数组和的绝对值的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1749任意子数组和的绝对值的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1770执行乘法运算的最大分数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1770执行乘法运算的最大分数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1986完成任务的最少工作时间段.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1986完成任务的最少工作时间段.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S1997访问完所有房间的第一天.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S1997访问完所有房间的第一天.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2008出租车的最大盈利.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2008出租车的最大盈利.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2100适合打劫银行的日子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2100适合打劫银行的日子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S2184NumberofWaystoBuildSturdyBrickWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S2184NumberofWaystoBuildSturdyBrickWall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S333最大BST子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S333最大BST子树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S351安卓系统手势解锁.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S351安卓系统手势解锁.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S418屏幕可显示句子的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S418屏幕可显示句子的数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S638大礼包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S638大礼包.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S650只有两个键的键盘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S650只有两个键的键盘.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S698划分为k个相等的子集.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S838推多米诺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S838推多米诺.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S898子数组按位或操作.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S95不同的二叉搜索树II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S95不同的二叉搜索树II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/SLCP45自行车炫技赛场.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/SLCP45自行车炫技赛场.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S面试题0814布尔运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S面试题0814布尔运算.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/S面试题1708马戏团人塔.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/S面试题1708马戏团人塔.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/basic/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/basic/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/未分类31/已刷/S983最低票价.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类25/已刷/S983最低票价.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1024视频拼接.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S1024视频拼接.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1626无矛盾的最佳球队.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1653使字符串平衡的最少删除次数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1749任意子数组和的绝对值的最大值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1770执行乘法运算的最大分数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S1770执行乘法运算的最大分数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1986完成任务的最少工作时间段.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S1997访问完所有房间的第一天.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S1997访问完所有房间的第一天.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S2008出租车的最大盈利.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S2008出租车的最大盈利.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S2100适合打劫银行的日子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S2100适合打劫银行的日子.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S2184NumberofWaystoBuildSturdyBrickWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S2184NumberofWaystoBuildSturdyBrickWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S333最大BST子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S333最大BST子树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S351安卓系统手势解锁.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S351安卓系统手势解锁.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S418屏幕可显示句子的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S418屏幕可显示句子的数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S638大礼包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S638大礼包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S650只有两个键的键盘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S650只有两个键的键盘.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S838推多米诺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S838推多米诺.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S95不同的二叉搜索树II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S95不同的二叉搜索树II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/SLCP45自行车炫技赛场.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/SLCP45自行车炫技赛场.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S面试题0814布尔运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S面试题0814布尔运算.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/S面试题1708马戏团人塔.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/S面试题1708马戏团人塔.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/basic/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/basic/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/未分类25/已刷/S983最低票价.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/未分类16/已刷/S983最低票价.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/一维数组6/S413等差数列划分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/前缀13/匹配/交织3/S1035不相交的线.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/前缀13/匹配/交织3/S97交错字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/前缀13/匹配/交织3/S剑指OfferII096字符串交织.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/状态机20/S152乘积最大子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/状态机20/S376摆动序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前一个状态99/状态机20/子数组/S1493删掉一个元素以后全为1的最长子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前几个状态19/打家劫舍7/S337打家劫舍III.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/依赖前几个状态19/打家劫舍7/S337打家劫舍III.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1024视频拼接.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1043分隔数组以得到最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1055形成字符串的最短路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1227飞机座位分配概率.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1334阈值距离内邻居最少的城市.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1395统计作战单位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1578使绳子变成彩色的最短时间.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1594矩阵的最大非负积.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1621大小为K的不重叠线段的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1626无矛盾的最佳球队$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1626无矛盾的最佳球队.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1653使字符串平衡的最少删除次数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1749任意子数组和的绝对值的最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1770执行乘法运算的最大分数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1911最大子序列交替和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1986完成任务的最少工作时间段.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S1997访问完所有房间的第一天.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2008出租车的最大盈利.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2100适合打劫银行的日子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2110股票平滑下跌阶段的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2140解决智力问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2184NumberofWaystoBuildSturdyBrickWall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S2266统计打字方案数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S333最大BST子树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S351安卓系统手势解锁.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S361轰炸敌人.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S418屏幕可显示句子的数量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S638大礼包.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S650只有两个键的键盘.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S698划分为k个相等的子集.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S764最大加号标志.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S838推多米诺.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S898子数组按位或操作.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S918环形子数组的最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S95不同的二叉搜索树II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/SLCP45自行车炫技赛场.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S面试题0814布尔运算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S面试题1708马戏团人塔$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/S面试题1708马戏团人塔.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/basic/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/未分类41/已刷/S983最低票价.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +141,26 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.S1986完成任务的最少工作时间段">
     <configuration name="S1594矩阵的最大非负积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="依赖前一个状态99.状态机20.子数组.S1594矩阵的最大非负积" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="依赖前一个状态99.状态机20.子数组.*" />
+          <option name="PATTERN" value="依赖前一个状态99.状态机20.左右.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S1986完成任务的最少工作时间段" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsmemo6.排列组合.S1986完成任务的最少工作时间段" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfsmemo6.排列组合.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +170,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S1986完成任务的最少工作时间段" />
         <item itemvalue="Application.S1594矩阵的最大非负积" />
       </list>
     </recent_temporary>
