@@ -1,6 +1,6 @@
 package dp.依赖前所有状态25.左右划分5;
 
-import TreeNode;
+import dp.TreeNode;
 
 import java.util.ArrayList;
 import java.util.HashMap;

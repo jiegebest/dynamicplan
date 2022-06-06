@@ -1,7 +1,7 @@
 package dp.依赖前几个状态19.打家劫舍7;
 
 
-import TreeNode;
+import dp.TreeNode;
 
 /**
  * 为了避免重复计算，采用后序遍历
