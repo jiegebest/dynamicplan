@@ -1,4 +1,4 @@
-package dp.tmp;
+package dp.依赖前一个状态99.一维数组6.子串;
 
 /**
  * f 代表以 i 结尾的元音子串个数

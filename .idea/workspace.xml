@@ -5,35 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/不考/S1976到达目的地的方案数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/左右4/S1525字符串的好分割数目.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/左右4/S剑指OfferII092翻转字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/状压/S1908Nim游戏II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/状压/S2002两个回文子序列长度的最大乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/SLCP34二叉树染色.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/不考/S1786从第一个节点出发到最后一个节点的受限路径数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/替换与否/S1746经过一次操作后的最大子数组和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前几个状态19/打家劫舍7/S337打家劫舍III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前所有状态25/左右划分5/S894所有可能的满二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖后一个状态/S1055形成字符串的最短路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖后特定状态/S1055形成字符串的最短路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖后一个状态/S2140解决智力问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖后特定状态/S2140解决智力问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖后一个状态/S983最低票价.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖后特定状态/S983最低票价.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/bfs/SLCP45自行车炫技赛场.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/bfs/SLCP45自行车炫技赛场.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/binarytree/S333最大BST子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S333最大BST子树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/binarytree/S95不同的二叉搜索树II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S95不同的二叉搜索树II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/S140单词拆分II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/S140单词拆分II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/S351安卓系统手势解锁.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/S351安卓系统手势解锁.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/括号/S22括号生成.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S22括号生成.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/括号/S241为运算表达式设计优先级.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S241为运算表达式设计优先级.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/括号/S面试题0814布尔运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S面试题0814布尔运算.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/排列组合/S1986完成任务的最少工作时间段.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/排列组合/S1986完成任务的最少工作时间段.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/排列组合/S473火柴拼正方形.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/排列组合/S473火柴拼正方形.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/排列组合/S526优美的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/排列组合/S526优美的排列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/排列组合/S638大礼包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/排列组合/S638大礼包.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/排列组合/S698划分为k个相等的子集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/排列组合/S698划分为k个相等的子集.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/游戏/S294翻转游戏II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/游戏/S294翻转游戏II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/dfs/游戏/S464我能赢吗.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/dfs/游戏/S464我能赢吗.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memosearch/two_ptrs/S1477找两个和为目标值且不重叠的子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memo/two_ptrs/S1477找两个和为目标值且不重叠的子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/tmp/S2063所有子字符串中的元音.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子串/S2063所有子字符串中的元音.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/S53最大子数组和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/S53最大子数组和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/S918环形子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/S918环形子数组的最大和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/剑指Offer42连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/剑指Offer42连续子数组的最大和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/面试题1617连续数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/面试题1617连续数列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

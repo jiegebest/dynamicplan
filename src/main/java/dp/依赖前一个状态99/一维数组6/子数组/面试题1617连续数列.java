@@ -1,6 +1,6 @@
-package dp.依赖前一个状态99.一维数组6.最大子数组和;
+package dp.依赖前一个状态99.一维数组6.子数组;
 
-public class 剑指Offer42连续子数组的最大和 {
+public class 面试题1617连续数列 {
 
 	public int maxSubArray(int[] nums) {
 		int n = nums.length;

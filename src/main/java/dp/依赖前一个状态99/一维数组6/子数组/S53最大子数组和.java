@@ -1,4 +1,4 @@
-package dp.依赖前一个状态99.一维数组6.最大子数组和;
+package dp.依赖前一个状态99.一维数组6.子数组;
 
 public class S53最大子数组和 {
 
