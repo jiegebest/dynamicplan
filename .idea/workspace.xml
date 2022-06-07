@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/不考/S1786从第一个节点出发到最后一个节点的受限路径数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/替换与否/S1746经过一次操作后的最大子数组和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/S1191K次串联后最大子数组之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/区间13/S1130叶值的最小代价生成树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S1372二叉树中的最长交错路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S823带因子的二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/tmp/S2063所有子字符串中的元音.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子串/S2063所有子字符串中的元音.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/S53最大子数组和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/S53最大子数组和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/S918环形子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/S918环形子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/剑指Offer42连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/剑指Offer42连续子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/最大子数组和/面试题1617连续数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/一维数组6/子数组/面试题1617连续数列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
