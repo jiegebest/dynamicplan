@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/S1191K次串联后最大子数组之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/区间13/S1130叶值的最小代价生成树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S1372二叉树中的最长交错路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memo/binarytree/S823带因子的二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/S面试题1713恢复空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/子数组7/S1031两个非重叠子数组的最大和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/子数组7/S2036最大交替子数组和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/和/S2189NumberofWaystoBuildHouseofCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/S1049最后一块石头的重量II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/和/S1049最后一块石头的重量II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
