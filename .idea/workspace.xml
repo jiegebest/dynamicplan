@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/S面试题1713恢复空格.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/子数组7/S1031两个非重叠子数组的最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/子数组7/S2036最大交替子数组和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/和/S2189NumberofWaystoBuildHouseofCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/tmp/S1066校园自行车分配II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/S2054两个最好的不重叠活动.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/左右4/S2222选择建筑的方案数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前几个状态19/S634寻找数组的错位排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前所有状态25/S6514键键盘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前特定状态5/S788旋转数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/S1049最后一块石头的重量II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/和/S1049最后一块石头的重量II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
