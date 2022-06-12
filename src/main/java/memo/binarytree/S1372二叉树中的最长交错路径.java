@@ -1,6 +1,6 @@
 package memo.binarytree;
 
-import dp.TreeNode;
+import dp.utils.TreeNode;
 
 /**
  后序

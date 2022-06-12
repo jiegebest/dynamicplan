@@ -1,7 +1,7 @@
 package memo.binarytree;
 
 
-import dp.TreeNode;
+import dp.utils.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

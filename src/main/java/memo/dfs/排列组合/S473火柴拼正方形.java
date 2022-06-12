@@ -26,16 +26,16 @@ public class S473火柴拼正方形 {
 			matchsticks[j] = temp;
 		}
 
-		return backtrack(matchsticks, 0, new int[4], len);
+		return dfs(matchsticks, 0, new int[4], len);
 	}
 
-	public boolean backtrack(int[] matchsticks, int index, int[] edges, int len) {
+	public boolean dfs(int[] matchsticks, int index, int[] edges, int len) {
 		if (index == matchsticks.length) {
 			return true;
 		}
 		for (int i = 0; i < edges.length; ++i) {
 			edges[i] += matchsticks[index];
-			if (edges[i] <= len && backtrack(matchsticks, index + 1, edges, len)) {
+			if (edges[i] <= len && dfs(matchsticks, index + 1, edges, len)) {
 				return true;
 			}
 			edges[i] -= matchsticks[index];
