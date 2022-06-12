@@ -6,47 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位2/S1227飞机座位分配概率.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S1227飞机座位分配概率.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位2/S1824最少侧跳次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S1824最少侧跳次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位2/S790多米诺和托米诺平铺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S790多米诺和托米诺平铺.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数4/S264丑数II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数/S264丑数II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数4/S313超级丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数/S313超级丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数4/剑指Offer49丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数/剑指Offer49丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数4/面试题1709第k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/丑数/面试题1709第k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/升降1/S845数组中的最长山脉.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/升降/S845数组中的最长山脉.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/取模1/S1262可被三整除的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/取模/S1262可被三整除的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/同异色1/S276栅栏涂色.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/同异色/S276栅栏涂色.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/奇偶1/S1664生成平衡数组的方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/奇偶/S1664生成平衡数组的方案数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/奇偶1/S1997访问完所有房间的第一天.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/奇偶/S1997访问完所有房间的第一天.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列2/S1911最大子序列交替和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列2/S376摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S376摆动序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1031两个非重叠子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1031两个非重叠子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1186删除一次得到子数组最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1186删除一次得到子数组最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1524和为奇数的子数组数目.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1524和为奇数的子数组数目.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S152乘积最大子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S152乘积最大子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1567乘积为正数的最长子数组长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1567乘积为正数的最长子数组长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1594矩阵的最大非负积.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1594矩阵的最大非负积.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S1749任意子数组和的绝对值的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1749任意子数组和的绝对值的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S2036最大交替子数组和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S2036最大交替子数组和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组7/S978最长湍流子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S978最长湍流子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S1182与目标颜色间的最短距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S1182与目标颜色间的最短距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S1493删掉一个元素以后全为1的最长子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S1493删掉一个元素以后全为1的最长子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S1525字符串的好分割数目.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S1525字符串的好分割数目.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S1653使字符串平衡的最少删除次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S1653使字符串平衡的最少删除次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S1770执行乘法运算的最大分数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S1770执行乘法运算的最大分数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S2100适合打劫银行的日子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S2100适合打劫银行的日子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S2222选择建筑的方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S2222选择建筑的方案数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S926将字符串翻转到单调递增.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S926将字符串翻转到单调递增.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/SLCP19秋叶收藏集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/SLCP19秋叶收藏集.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右4/S剑指OfferII092翻转字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/左右/S剑指OfferII092翻转字符.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/替换与否/S1746经过一次操作后的最大子数组和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/操作/S1746经过一次操作后的最大子数组和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖5/S122买卖股票的最佳时机II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S122买卖股票的最佳时机II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖5/S123买卖股票的最佳时机III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S123买卖股票的最佳时机III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖5/S188买卖股票的最佳时机IV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S188买卖股票的最佳时机IV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖5/S309最佳买卖股票时机含冷冻期.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S309最佳买卖股票时机含冷冻期.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖5/S714买卖股票的最佳时机含手续费.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S714买卖股票的最佳时机含手续费.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/连续12/S487最大连续1的个数II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/操作/S487最大连续1的个数II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/连续12/面试题0503翻转数位.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/操作/面试题0503翻转数位.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S1227飞机座位分配概率.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/占位/S1227飞机座位分配概率.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S1824最少侧跳次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/占位/S1824最少侧跳次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/不同占位/S790多米诺和托米诺平铺.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/占位/S790多米诺和托米诺平铺.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/升降/S845数组中的最长山脉.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子数组/S845数组中的最长山脉.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
