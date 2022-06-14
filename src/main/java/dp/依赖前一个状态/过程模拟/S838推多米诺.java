@@ -2,15 +2,13 @@ package dp.依赖前一个状态.过程模拟;
 
 /**
  * 注意：每一轮的改变必须同时改变
+ * 将大区间拆解为多个小区间，统一判断
+ * 如果左右同向，一边倒
+ * 如果左右反向，不动
+ * 如果左右相向，向中间倒
  */
 public class S838推多米诺 {
 
-	/**
-	 * 将大区间拆解为多个小区间，统一判断
-	 * 如果左右同向，一边倒
-	 * 如果左右反向，不动
-	 * 如果左右相向，向中间倒
-	 */
 	public String pushDominoes(String dominoes) {
 		char[] arr = dominoes.toCharArray();
 		int n = arr.length;

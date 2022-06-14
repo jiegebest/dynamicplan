@@ -19,11 +19,9 @@ import java.util.*;
  */
 public class SLCP45自行车炫技赛场 {
 
-	static int[][] dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
 	public int[][] bicycleYard(int[] position, int[][] terrain, int[][] obstacle) {
-		int m = terrain.length;
-		int n = terrain[0].length;
+		int m = terrain.length, n = terrain[0].length;
+		int[][] dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 		boolean[][][] f = new boolean[m][n][102];
 		Deque<int[]> queue = new LinkedList<>();
 		queue.offer(new int[]{position[0], position[1], 1});
