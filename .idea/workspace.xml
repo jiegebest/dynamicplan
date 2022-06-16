@@ -5,8 +5,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/S200岛屿数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/utils/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/S92反转链表II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/面试题0208环路检测.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/noalgo/FindBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/S912排序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/字符串/字符串合并.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/坐标/一维数组/前面保留一个数值/S121买卖股票的最佳时机.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/坐标/一维数组/前面保留一个数值/S121买卖股票的最佳时机.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S122买卖股票的最佳时机II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S122买卖股票的最佳时机II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S123买卖股票的最佳时机III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S123买卖股票的最佳时机III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S188买卖股票的最佳时机IV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S188买卖股票的最佳时机IV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S309最佳买卖股票时机含冷冻期.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S309最佳买卖股票时机含冷冻期.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S714买卖股票的最佳时机含手续费.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/股票买卖/S714买卖股票的最佳时机含手续费.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/bfs/SLCP45自行车炫技赛场.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/bfs/SLCP45自行车炫技赛场.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/binarytree/S1372二叉树中的最长交错路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/binarytree/S1372二叉树中的最长交错路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/binarytree/S333最大BST子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/binarytree/S333最大BST子树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/binarytree/S823带因子的二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/binarytree/S823带因子的二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/binarytree/S95不同的二叉搜索树II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/binarytree/S95不同的二叉搜索树II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/binarytree/SLCP34二叉树染色.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/binarytree/SLCP34二叉树染色.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/拆分/S140单词拆分II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/拆分/S140单词拆分II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/拆分/S2052将句子分隔成行的最低成本.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/拆分/S2052将句子分隔成行的最低成本.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S22括号生成.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/括号/S22括号生成.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S241为运算表达式设计优先级.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/括号/S241为运算表达式设计优先级.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/括号/S面试题0814布尔运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/括号/S面试题0814布尔运算.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/排列/S1986完成任务的最少工作时间段.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/排列/S1986完成任务的最少工作时间段.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/排列/S526优美的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/排列/S526优美的排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/排列/S638大礼包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/排列/S638大礼包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/游戏/S294翻转游戏II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/游戏/S294翻转游戏II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/游戏/S464我能赢吗.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/游戏/S464我能赢吗.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/二进制/S698划分为k个相等的子集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/二进制/S698划分为k个相等的子集.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/二进制/不同状态取交集/S2002两个回文子序列长度的最大乘积.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/二进制/不同状态取交集/S2002两个回文子序列长度的最大乘积.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/二进制/不同状态取交集/S2184NumberofWaystoBuildSturdyBrickWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/二进制/不同状态取交集/S2184NumberofWaystoBuildSturdyBrickWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/二进制/必全选集合走索引另一集合走状压/S1066校园自行车分配II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/二进制/必全选集合走索引另一集合走状压/S1066校园自行车分配II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/二进制/必全选集合走索引另一集合走状压/S1947最大兼容性评分和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/二进制/必全选集合走索引另一集合走状压/S1947最大兼容性评分和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/状压/八进制/S1908Nim游戏II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/状压/八进制/S1908Nim游戏II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/纯dfs/S351安卓系统手势解锁.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/纯dfs/S351安卓系统手势解锁.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/纯dfs/S473火柴拼正方形.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/dfs/纯dfs/S473火柴拼正方形.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/two_ptrs/S1477找两个和为目标值且不重叠的子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/memo/two_ptrs/S1477找两个和为目标值且不重叠的子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/S2054两个最好的不重叠活动.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/子数组/S1191K次串联后最大子数组之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/子数组/S53最大子数组和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/子数组/S918环形子数组的最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/子数组/剑指Offer42连续子数组的最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/子数组/面试题1617连续数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/等差数列/S2063所有子字符串中的元音.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/等差数列/S2110股票平滑下跌阶段的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/等差数列/S413等差数列划分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/股票买卖/S1014最佳观光组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/股票买卖/S121买卖股票的最佳时机.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/股票买卖/S1578使绳子变成彩色的最短时间.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/一维数组/股票买卖/剑指Offer63股票的最大利润.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/S361轰炸敌人.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/S1641统计字典序元音字符串的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/S1706球会落何处.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/S688骑士在棋盘上的概率.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/S935骑士拨号器.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/剑指Offer13机器人的运动范围.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/杨辉三角/S118杨辉三角.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/杨辉三角/S119杨辉三角II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/杨辉三角/S799香槟塔.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/粉刷房子/S1473粉刷房子III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/粉刷房子/S256粉刷房子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/粉刷房子/S265粉刷房子II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/粉刷房子/剑指OfferII091粉刷房子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/模拟/面试题0802迷路的机器人.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/全1矩阵/S1277统计全为1的正方形子矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/全1矩阵/S1504统计全1子矩形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/全1矩阵/S221最大正方形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/角1矩阵/S750角矩形的数量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/边1矩阵/S1139最大的以1为边界的正方形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/正方形/边1矩阵/面试题1723最大黑方阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/距离/S1162地图分析.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/距离/S542_01矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/距离/S764最大加号标志.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/距离/剑指OfferII107矩阵中的距离.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/全路径和/S1981最小化目标值与所选元素的差.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最大路径和/S剑指Offer47礼物的最大价值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/S120三角形最小路径和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/S576出界的路径数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/S64最小路径和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/S931下降路径最小和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/S剑指OfferII099最小路径之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径/最小路径和/剑指OfferII100三角形中最小路径之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径数/S62不同路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径数/S63不同路径II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/路径数/剑指OfferII098路径的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/二维矩阵/连续1线段/S562矩阵中最长的连续1线段.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S1043分隔数组以得到最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S1621大小为K的不重叠线段的数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S1621大小为K的不重叠线段的数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S1959K次调整数组大小浪费的最小总空间.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S1959K次调整数组大小浪费的最小总空间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S813最大平均值和的分组.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/S813最大平均值和的分组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/交织3/S1035不相交的线.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/交织3/S97交错字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/划分/交织3/S剑指OfferII096字符串交织.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/删除2/S583两个字符串的删除操作.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/删除2/S712两个字符串的最小ASCII删除和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/子串2/S1062最长重复子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/子串2/S1638统计只差一个字符的子串数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/子序列3/S1143最长公共子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/子序列3/S392判断子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/子序列3/剑指OfferII095最长公共子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/正则3/S10正则表达式匹配.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/前缀/匹配/正则3/S44通配符匹配.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/S1039多边形三角剖分的最低得分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/S1130叶值的最小代价生成树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/S1334阈值距离内邻居最少的城市.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/S312戳气球.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/博弈4/S1690石子游戏VII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/博弈4/S375猜数字大小II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/博弈4/S486预测赢家.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/博弈4/S877石子游戏.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子串4/S132分割回文串II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子串4/S5最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子串4/S647回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子串4/S剑指OfferII020回文子字符串的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子序列2/S1682最长回文子序列II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/回文子序列2/S516最长回文子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/括号2/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/括号2/S553最优除法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/区间/括号2/S678有效的括号字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S122买卖股票的最佳时机II.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S122买卖股票的最佳时机II.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S123买卖股票的最佳时机III.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S123买卖股票的最佳时机III.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S188买卖股票的最佳时机IV.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S188买卖股票的最佳时机IV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S309最佳买卖股票时机含冷冻期.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S309最佳买卖股票时机含冷冻期.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S714买卖股票的最佳时机含手续费.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/状态机/股票买卖/S714买卖股票的最佳时机含手续费.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/S1155掷骰子的N种方法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/S1230抛掷硬币.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/S474一和零.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/加减的目标值/S494目标和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/加减的目标值/S剑指OfferII102加减的目标值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/和/S1049最后一块石头的重量II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/和/S2189NumberofWaystoBuildHouseofCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/_01背包7/差/S416分割等和子集.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/多重背包2/S1774最接近目标价格的甜点成本.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/多重背包2/S879盈利计划.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/多重背包2/剑指Offer60n个骰子的点数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/S279完全平方数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/S面试题1713恢复空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/排列组合3/S377组合总和Ⅳ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/排列组合3/S剑指OfferII104排列的数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/排列组合3/面试题0811硬币.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/零钱兑换3/S322零钱兑换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/零钱兑换3/S518零钱兑换II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/背包/完全背包7/零钱兑换3/剑指OfferII103最少的硬币数目.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/规律变化/S396旋转函数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/过程模拟/S838推多米诺.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态/过程模拟/S838推多米诺.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态/子序列/单调/S300最长递增子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态/子序列/单调/S300最长递增子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/bfs/SLCP45自行车炫技赛场.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/binarytree/S1372二叉树中的最长交错路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/binarytree/S333最大BST子树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/binarytree/S823带因子的二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/binarytree/S95不同的二叉搜索树II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/binarytree/SLCP34二叉树染色.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/S2184NumberofWaystoBuildSturdyBrickWall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/S351安卓系统手势解锁.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/拆分/S140单词拆分II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/拆分/S2052将句子分隔成行的最低成本.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/括号/S22括号生成.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/括号/S241为运算表达式设计优先级.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/括号/S面试题0814布尔运算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S1986完成任务的最少工作时间段.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S473火柴拼正方形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S526优美的排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S638大礼包.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S698划分为k个相等的子集.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/游戏/S294翻转游戏II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/游戏/S464我能赢吗.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S1066校园自行车分配II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S1908Nim游戏II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S1947最大兼容性评分和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S2002两个回文子序列长度的最大乘积.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/two_ptrs/S1477找两个和为目标值且不重叠的子数组.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +249,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S764最大加号标志">
-    <configuration name="S1959K次调整数组大小浪费的最小总空间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.前缀.划分.S1959K次调整数组大小浪费的最小总空间" />
+  <component name="RunManager" selected="Application.堆排序">
+    <configuration name="字符串合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串.字符串合并" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前几个状态.*" />
+          <option name="PATTERN" value="字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S2152穿过所有点的所需最少直线数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.不考.S2152穿过所有点的所需最少直线数量" />
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.堆排序" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.不考.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S2184NumberofWaystoBuildSturdyBrickWall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="memo.dfs.状压.二进制.不同状态取交集.S2184NumberofWaystoBuildSturdyBrickWall" />
+    <configuration name="FindBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="noalgo.FindBigger" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memo.dfs.纯dfs.*" />
+          <option name="PATTERN" value="noalgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S764最大加号标志" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.坐标.二维矩阵.距离.S764最大加号标志" />
+    <configuration name="S92反转链表II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.S92反转链表II" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.坐标.二维矩阵.距离.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SLCP19秋叶收藏集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.状态机.左右.SLCP19秋叶收藏集" />
+    <configuration name="_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch._01" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.状态机.子数组.*" />
+          <option name="PATTERN" value="binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.S764最大加号标志" />
-        <item itemvalue="Application.SLCP19秋叶收藏集" />
-        <item itemvalue="Application.S2152穿过所有点的所需最少直线数量" />
-        <item itemvalue="Application.S1959K次调整数组大小浪费的最小总空间" />
-        <item itemvalue="Application.S2184NumberofWaystoBuildSturdyBrickWall" />
+        <item itemvalue="Application.堆排序" />
+        <item itemvalue="Application.FindBigger" />
+        <item itemvalue="Application._01" />
+        <item itemvalue="Application.字符串合并" />
+        <item itemvalue="Application.S92反转链表II" />
       </list>
     </recent_temporary>
   </component>
