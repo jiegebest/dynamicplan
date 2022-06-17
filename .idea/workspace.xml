@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/_01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dfs/S200岛屿数量.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dp/utils/ListNode.java" afterDir="false" />
@@ -181,6 +182,73 @@
       <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S1947最大兼容性评分和.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/状压/S2002两个回文子序列长度的最大乘积.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/memo/two_ptrs/S1477找两个和为目标值且不重叠的子数组.class" beforeDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S124二叉树中的最大路径和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/二维矩阵31/.S361轰炸敌人.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/二维矩阵31/最小路径和11/.面试题0802迷路的机器人.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/二维矩阵31/粉刷房子3/.S1473粉刷房子III.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/二维矩阵31/粉刷房子3/.S2184NumberofWaystoBuildSturdyBrickWall.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/二维矩阵31/距离3/.S764最大加号标志.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/区间13/括号2/.S553最优除法.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/奇偶1/.S1997访问完所有房间的第一天.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/状态机40/左右4/.S1770执行乘法运算的最大分数.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/背包16/_01背包7/.S474一和零.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态99/过程模拟1/.S838推多米诺.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前所有状态25/.S1334阈值距离内邻居最少的城市.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前所有状态25/子序列3/.S1626无矛盾的最佳球队.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖后特定状态/.S1055形成字符串的最短路径.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/状压/.S1908Nim游戏II.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/状压/.S2002两个回文子序列长度的最大乘积.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/.S140单词拆分II.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memo/dfs/.S351安卓系统手势解锁.java.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/.TreeNode.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/.S361轰炸敌人.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/最小路径和11/.S120三角形最小路径和.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/最小路径和11/.剑指OfferII100三角形中最小路径之和.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/最小路径和11/.面试题0802迷路的机器人.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/杨辉三角3/.S118杨辉三角.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/正方形6/角1矩阵/.S750角矩形的数量.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/正方形6/边1矩阵/.面试题1723最大黑方阵.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/矩阵模拟移动3/.S688骑士在棋盘上的概率.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/粉刷房子3/.S1473粉刷房子III.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/粉刷房子3/.S2184NumberofWaystoBuildSturdyBrickWall.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/距离3/.S1162地图分析.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/距离3/.S542_01矩阵.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/距离3/.S764最大加号标志.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/距离3/.剑指OfferII107矩阵中的距离.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/二维矩阵31/连续1线段/.S562矩阵中最长的连续1线段.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/前缀13/划分/.S139单词拆分.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/前缀13/划分/交织3/.S97交错字符串.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/前缀13/匹配/删除2/.S712两个字符串的最小ASCII删除和.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/前缀13/匹配/正则3/.S10正则表达式匹配.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/前缀13/匹配/正则3/.S44通配符匹配.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/区间13/括号2/.S553最优除法.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/区间13/括号2/.S678有效的括号字符串.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/状态机40/子数组7/.S1594矩阵的最大非负积.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/状态机40/左右4/.S2100适合打劫银行的日子.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前一个状态99/背包16/_01背包7/.S474一和零.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前几个状态19/解码方法3/.S639解码方法II.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前几个状态19/跳台阶爬楼梯5/.S1654到家的最少跳跃次数.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前几个状态19/跳台阶爬楼梯5/.S1696跳跃游戏VI.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/.S1048最长字符串链.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/.S1334阈值距离内邻居最少的城市.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/.S435无重叠区间.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/升序接龙3/.S368最大整除子集.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/升序接龙3/.S面试题1708马戏团人塔.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/子序列3/.S1626无矛盾的最佳球队.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/子序列3/.S446等差数列划分II子序列.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/左右划分5/.S894所有可能的满二叉树.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/左右划分5/.剑指OfferII085生成匹配的括号.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态25/左右划分5/.面试题0809括号.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前特定状态5/区间集合/.S2008出租车的最大盈利.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖后特定状态/.S1055形成字符串的最短路径.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/状压/.S1908Nim游戏II.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/状压/.S2002两个回文子序列长度的最大乘积.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/.S140单词拆分II.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/.S1986完成任务的最少工作时间段.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/.S526优美的排列.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/游戏/.S294翻转游戏II.class.icloud" beforeDir="false" />
+>>>>>>> 9b2e78a6e0bf704c87231dada7d8f7c15fb0be6e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +261,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -208,15 +277,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../../software/repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3/conf/settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/software/repository" />
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.8.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -229,6 +295,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +308,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -249,6 +315,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.堆排序">
     <configuration name="字符串合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="字符串.字符串合并" />
@@ -295,6 +362,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlist.*" />
+=======
+  <component name="RunManager" selected="Application.二维矩阵斜着打印">
+    <configuration name="二维矩阵斜着打印" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.tmp.二维矩阵斜着打印" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.tmp.*" />
+>>>>>>> 9b2e78a6e0bf704c87231dada7d8f7c15fb0be6e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +378,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearch._01" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="binarysearch.*" />
+=======
+    <configuration name="S1387将整数按权重排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.依赖前特定状态5.S1387将整数按权重排序" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.依赖前特定状态5.*" />
+>>>>>>> 9b2e78a6e0bf704c87231dada7d8f7c15fb0be6e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +402,16 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.堆排序" />
         <item itemvalue="Application.FindBigger" />
         <item itemvalue="Application._01" />
         <item itemvalue="Application.字符串合并" />
         <item itemvalue="Application.S92反转链表II" />
+=======
+        <item itemvalue="Application.二维矩阵斜着打印" />
+        <item itemvalue="Application.S1387将整数按权重排序" />
+>>>>>>> 9b2e78a6e0bf704c87231dada7d8f7c15fb0be6e
       </list>
     </recent_temporary>
   </component>
