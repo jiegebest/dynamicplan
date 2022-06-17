@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/状态机/子序列/S1911最大子序列交替和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/二维矩阵斜着打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S236二叉树的最近公共祖先.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/非递归中序遍历二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/非递归后序遍历二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S1986完成任务的最少工作时间段.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S526优美的排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/游戏/S294翻转游戏II.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -34,15 +40,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../../software/repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3/conf/settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/software/repository" />
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.8.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -55,6 +58,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -67,7 +71,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -75,13 +78,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S764最大加号标志">
-    <configuration name="S1959K次调整数组大小浪费的最小总空间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.前缀.划分.S1959K次调整数组大小浪费的最小总空间" />
+  <component name="RunManager" selected="Application.二维矩阵斜着打印">
+    <configuration name="二维矩阵斜着打印" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.tmp.二维矩阵斜着打印" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前几个状态.*" />
+          <option name="PATTERN" value="dp.tmp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,51 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S2152穿过所有点的所需最少直线数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.不考.S2152穿过所有点的所需最少直线数量" />
+    <configuration name="S1387将整数按权重排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.依赖前特定状态5.S1387将整数按权重排序" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.不考.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S2184NumberofWaystoBuildSturdyBrickWall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="memo.dfs.状压.二进制.不同状态取交集.S2184NumberofWaystoBuildSturdyBrickWall" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="memo.dfs.纯dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S764最大加号标志" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.坐标.二维矩阵.距离.S764最大加号标志" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.坐标.二维矩阵.距离.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLCP19秋叶收藏集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.状态机.左右.SLCP19秋叶收藏集" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.状态机.子数组.*" />
+          <option name="PATTERN" value="dp.依赖前特定状态5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.S764最大加号标志" />
-        <item itemvalue="Application.SLCP19秋叶收藏集" />
-        <item itemvalue="Application.S2152穿过所有点的所需最少直线数量" />
-        <item itemvalue="Application.S1959K次调整数组大小浪费的最小总空间" />
-        <item itemvalue="Application.S2184NumberofWaystoBuildSturdyBrickWall" />
+        <item itemvalue="Application.二维矩阵斜着打印" />
+        <item itemvalue="Application.S1387将整数按权重排序" />
       </list>
     </recent_temporary>
   </component>
