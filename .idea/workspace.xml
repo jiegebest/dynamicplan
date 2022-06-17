@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/二维矩阵斜着打印.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S236二叉树的最近公共祖先.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/非递归中序遍历二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/非递归后序遍历二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S1986完成任务的最少工作时间段.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/排列组合/S526优美的排列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/memo/dfs/游戏/S294翻转游戏II.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S144二叉树的前序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S145二叉树的后序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/S94二叉树的中序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/非递归中序遍历二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/非递归后序遍历二叉树.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
