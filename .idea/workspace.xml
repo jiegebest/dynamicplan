@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/遍历/S429N叉树的层序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/前缀/匹配/子串/最长公共子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/S43字符串相乘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/S470用Rand5实现Rand7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/S470用Rand7实现Rand10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/S945使数组唯一的最小增量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/求路径/S剑指Offer34二叉树中和为某一值的路径.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/S144二叉树的前序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/遍历/S144二叉树的前序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/S145二叉树的后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/遍历/S145二叉树的后序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/S94二叉树的中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/遍历/S94二叉树的中序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/PrintUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PrintUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态/子序列/单调/矩阵中找最长上升子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/依赖前所有状态/子序列/单调/矩阵中找最长上升子序列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/PrintUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/S144二叉树的前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/S145二叉树的后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/S94二叉树的中序遍历.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +84,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintUtil">
-    <configuration name="字符串合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字符串.字符串合并" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.S43字符串相乘">
     <configuration name="FindBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="noalgo.FindBigger" />
       <module name="dynamicplan" />
@@ -115,7 +103,7 @@
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="util.*" />
+          <option name="PATTERN" value="dp.依赖前一个状态.前缀.匹配.子串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S92反转链表II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.S92反转链表II" />
+    <configuration name="S43字符串相乘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.S43字符串相乘" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +163,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.tmp" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.依赖前一个状态.前缀.匹配.子串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S43字符串相乘" />
+        <item itemvalue="Application.tmp" />
         <item itemvalue="Application.PrintUtil" />
         <item itemvalue="Application.FindBigger" />
         <item itemvalue="Application._01" />
-        <item itemvalue="Application.字符串合并" />
-        <item itemvalue="Application.S92反转链表II" />
       </list>
     </recent_temporary>
   </component>
