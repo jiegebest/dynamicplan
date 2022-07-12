@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="" />
+    <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/Handler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/Handler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,20 +73,23 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.S43字符串相乘">
-    <configuration name="FindBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="noalgo.FindBigger" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="noalgo.*" />
+          <option name="PATTERN" value="designpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.PrintUtil" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.前缀.匹配.子串.*" />
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp.Demo" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,45 +129,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩阵中找最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前所有状态.子序列.单调.矩阵中找最长上升子序列" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.依赖前所有状态.子序列.单调.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.堆排序" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch._01" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.S43字符串相乘" />
         <item itemvalue="Application.tmp" />
-        <item itemvalue="Application.PrintUtil" />
-        <item itemvalue="Application.FindBigger" />
-        <item itemvalue="Application._01" />
       </list>
     </recent_temporary>
   </component>
