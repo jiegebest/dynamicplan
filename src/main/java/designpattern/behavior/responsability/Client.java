@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.behavior.responsability;
 
 public class Client {
 	public static void main(String[] args) {

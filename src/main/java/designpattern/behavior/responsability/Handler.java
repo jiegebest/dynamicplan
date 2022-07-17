@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.behavior.responsability;
 
 public abstract class Handler {
 	private Handler next;

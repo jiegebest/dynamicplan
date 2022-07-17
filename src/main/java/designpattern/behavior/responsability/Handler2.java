@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.behavior.responsability;
 
 public class Handler2 extends Handler {
 	@Override

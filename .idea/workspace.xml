@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/依赖前一个状态/前缀/匹配/删除/美团地图一面两个字符串删除新增或替换匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/JDMatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/command/ConcreteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/impl/ConcreteReceiver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/impl/ConcreteReceiver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/impl/ConcreteStrategy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/impl/ConcreteStrategy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/creation/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/creation/singleton/LazySingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/other/JDMatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/JDMatchDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,16 +100,20 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpattern.behavior.state.impl" />
+      <recent name="designpattern.behavior.strategy.impl" />
+      <recent name="designpattern.behavior.command.receiver" />
+      <recent name="designpattern.behavior.command.impl" />
       <recent name="demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDMatchDemo">
-    <configuration name="美团地图一面两个字符串删除新增或替换匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.依赖前一个状态.前缀.匹配.删除.美团地图一面两个字符串删除新增或替换匹配" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.command.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.依赖前一个状态.前缀.匹配.删除.*" />
+          <option name="PATTERN" value="designpattern.behavior.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.strategy.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.*" />
+          <option name="PATTERN" value="designpattern.behavior.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +135,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Client" />
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.state.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="designpattern.behavior.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temp.Demo" />
+    <configuration name="HungrySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.creation.singleton.HungrySingleton" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="temp.*" />
+          <option name="PATTERN" value="designpattern.creation.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,16 +175,32 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDMatchDemo" />
-        <item itemvalue="Application.美团地图一面两个字符串删除新增或替换匹配" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.HungrySingleton" />
+        <item itemvalue="Application.JDMatchDemo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Client.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
