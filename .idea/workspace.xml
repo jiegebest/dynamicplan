@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/observer/impl/Observer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/subject/impl/Subject1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/impl/Element1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/impl/Element2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/impl/Visitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/impl/Visitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/impl/Colleague1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/impl/Colleague2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/mediator/impl/ConcreteMediator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,30 +83,19 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="designpattern.behavior.mediator.colleague.impl" />
+      <recent name="designpattern.behavior.mediator.mediator" />
       <recent name="designpattern.behavior.visitor.visitor.impl" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="designpattern.behavior.observer.observable.impl" />
+      <recent name="designpattern.behavior.mediator.colleague.impl" />
+      <recent name="designpattern.behavior.mediator.colleague" />
       <recent name="designpattern.behavior.observer.observer.impl" />
+      <recent name="designpattern.behavior.observer.observable.impl" />
       <recent name="designpattern.behavior.visitor.visitor.impl" />
-      <recent name="designpattern.behavior.visitor.element.impl" />
-      <recent name="designpattern.behavior.state.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.command.Client" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpattern.behavior.command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpattern.behavior.strategy.Client" />
       <module name="dynamicplan" />
@@ -152,6 +135,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.mediator.Client" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.behavior.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpattern.behavior.state.Client" />
       <module name="dynamicplan" />
@@ -167,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
