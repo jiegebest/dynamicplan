@@ -5,31 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/command/ConcreteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/impl/ConcreteReceiver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/command/receiver/impl/ConcreteReceiver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/impl/ConcreteStrategy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/strategy/impl/ConcreteStrategy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/creation/singleton/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/creation/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/observer/impl/Observer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/observer/subject/impl/Subject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/impl/Element1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/element/impl/Element2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/impl/Visitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/visitor/visitor/impl/Visitor2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/Handler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/responsability/Handler2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/other/JDMatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/JDMatchDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -99,15 +88,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="designpattern.behavior.visitor.visitor.impl" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpattern.behavior.observer.observable.impl" />
+      <recent name="designpattern.behavior.observer.observer.impl" />
+      <recent name="designpattern.behavior.visitor.visitor.impl" />
+      <recent name="designpattern.behavior.visitor.element.impl" />
       <recent name="designpattern.behavior.state.impl" />
-      <recent name="designpattern.behavior.strategy.impl" />
-      <recent name="designpattern.behavior.command.receiver" />
-      <recent name="designpattern.behavior.command.impl" />
-      <recent name="demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpattern.behavior.command.Client" />
       <module name="dynamicplan" />
@@ -134,6 +126,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.visitor.Client" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.behavior.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.observer.Client" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.behavior.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpattern.behavior.state.Client" />
       <module name="dynamicplan" />
@@ -147,60 +165,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HungrySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.creation.singleton.HungrySingleton" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpattern.creation.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDMatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.JDMatchDemo" />
-      <module name="dynamicplan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.HungrySingleton" />
-        <item itemvalue="Application.JDMatchDemo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavior/state/Client.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavior/state/impl/State1.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
