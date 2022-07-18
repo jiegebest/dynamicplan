@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/component/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/component/impl/Component1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/impl/Decorator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/impl/Decorator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/adaptee/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/adaptee/impl/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/adapter/target/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/adapter/target/impl/Target1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +93,20 @@
       <recent name="designpattern.behavior.observer.observable.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.structure.adapter.Client" />
+      <module name="dynamicplan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.structure.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpattern.structure.proxy.Client" />
       <module name="dynamicplan" />
@@ -166,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
