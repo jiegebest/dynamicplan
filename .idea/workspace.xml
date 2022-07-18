@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ca1650-1b54-481c-9a3a-13c8708c51c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/impl/Colleague1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/colleague/impl/Colleague2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/behavior/mediator/mediator/impl/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/component/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/component/impl/Component1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/impl/Decorator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/decorator/decorator/impl/Decorator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/adaptee/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structure/proxy/adaptee/impl/RealSubject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="FxmlFile" />
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -63,7 +67,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -76,7 +79,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,20 +91,20 @@
       <recent name="designpattern.behavior.visitor.visitor.impl" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpattern.structure.decorator.impl" />
       <recent name="designpattern.behavior.mediator.colleague.impl" />
       <recent name="designpattern.behavior.mediator.colleague" />
       <recent name="designpattern.behavior.observer.observer.impl" />
       <recent name="designpattern.behavior.observer.observable.impl" />
-      <recent name="designpattern.behavior.visitor.visitor.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (5)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.strategy.Client" />
+      <option name="MAIN_CLASS_NAME" value="designpattern.structure.proxy.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.behavior.strategy.*" />
+          <option name="PATTERN" value="designpattern.structure.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +152,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.behavior.state.Client" />
+      <option name="MAIN_CLASS_NAME" value="designpattern.structure.decorator.Client" />
       <module name="dynamicplan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.behavior.state.*" />
+          <option name="PATTERN" value="designpattern.structure.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
